@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container" style="margin-top: 10px;">
-        This is an example posttt
+        This is an example post
     </div>
 </body>
 </html>
